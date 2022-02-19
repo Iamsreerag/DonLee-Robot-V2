@@ -91,6 +91,8 @@ Click on the Help Button or <a href="https://telegram.dog/Donlee_Robot">/help</a
 
 ----
 
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Frailwayapp%2Fexamples%2Ftree%2Fmaster%2Fexamples%2Fflask&envs=API_HASH%2CAPI_ID%2CBOT_TOKEN%2CBOT_USERNAME%2CCUSTOM_CAPTION%2CDATABASE_URI%2CDEV_ID1%2CDEV_ID2%2CFILE_BUTTONS%2CFILE_CAPTION%2CFORCE_CHANNEL%2CFORCE_TEXT%2CGROUP_LINK%2CPHOTOS%2CSESSION_FILE%2CSPELLING_MODE_TEXT%2CWELCOME_ENABLE_OR_DISABLE%2CWELCOME_TEXT&optionalEnvs=BOT_USERNAME%2CCUSTOM_CAPTION%2CDEV_ID1%2CDEV_ID2%2CFILE_BUTTONS%2CFILE_CAPTION%2CFORCE_TEXT%2CGROUP_LINK%2CPHOTOS%2CSPELLING_MODE_TEXT%2CWELCOME_ENABLE_OR_DISABLE%2CWELCOME_TEXT&WELCOME_TEXTDesc=Set+Your+Custom+Welcome+Text+%28User+Name+%3D+%7Bmention%7D+%7C%7C+Group+Name+%7Bgroupname%7D&DATABASE_URIDefault=mongodb%2Bsrv%3A%2F%2Fsreerag%3Asreerag%40cluster0.ki5or.mongodb.net%2FmyFirstDatabase%3FretryWrites%3Dtrue%26w%3Dmajority&referralCode=VB53UW)
 <p align="center">
 ↪️ 𝐑𝐄𝐐𝐔𝐈𝐑𝐄𝐃 ↩️
 </p>
